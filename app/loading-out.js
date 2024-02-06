@@ -1,3 +1,4 @@
+// not used, using suspense
 import classes from "./loading.module.css";
 
 export default function MealLoading() {
